@@ -18,7 +18,7 @@ import horizontalscrollview.MyHorizontalScrollView;
 public class MainActivity extends Activity
 {
 
-    private MyHorizontalScrollView mHorizontalScrollView;
+    private MyHorizontalScrollView mHorizontalScrollView;            //testing
     private HorizontalScrollViewAdapter mAdapter;
     private ImageView mImg;
     private List<Integer> mDatas = new ArrayList<Integer>(Arrays.asList(
