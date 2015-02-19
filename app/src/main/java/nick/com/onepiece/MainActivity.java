@@ -19,7 +19,7 @@ public class MainActivity extends Activity
 {
 
     private MyHorizontalScrollView mHorizontalScrollView;
-    private HorizontalScrollViewAdapter mAdapter;    // hi
+    private HorizontalScrollViewAdapter mAdapter;
     private ImageView mImg;
     private List<Integer> mDatas = new ArrayList<Integer>(Arrays.asList(
             R.drawable.luffy, R.drawable.luffy2, R.drawable.luffy3, R.drawable.chopper,
